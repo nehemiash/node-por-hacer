@@ -1,6 +1,6 @@
 ## Aplicacion de comandos ToDo
 
-Este es eñ ejercicio del curso
+Este es el ejercicio del curso
 
 No olvidar instalar los paquedes de node
 
